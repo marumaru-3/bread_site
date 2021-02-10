@@ -686,6 +686,9 @@ footer p img {
   #info .instagram a .instagram_txt {
     font-size: 3.5vw;
   }
+  #info .instagram h5 {
+    font-size: 2vw;
+  }
   #store {
     margin-bottom: 30%;
   }
@@ -693,7 +696,7 @@ footer p img {
     height: 150%;
   }
   #store .information {
-    margin-top: 20%;
+    margin-top: 16%;
     padding-top: 7%;
     background-color: #fff1e0;
   }
@@ -712,7 +715,7 @@ footer p img {
     margin: 0 auto;
   }
   #contact .contact_txt p {
-    font-size: 1.5vw;
+    font-size: 2vw;
     line-height: 200%;
   }
   #contact .contact_tel h3 {
@@ -729,7 +732,7 @@ footer p img {
   }
   #contact .contact_tel .txts {
     margin-top: 5%;
-    font-size: 1vw;
+    font-size: 2vw;
     color: #6e6e6e;
   }
   #contact .contact_tel .tel img {
@@ -744,7 +747,7 @@ footer p img {
     padding: 4%;
   }
   footer p {
-    font-size: .5vw;
+    font-size: 2vw;
   }
   #page_top {
     width: 18%;
