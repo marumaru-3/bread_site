@@ -668,13 +668,13 @@ footer p img {
     margin-left: 52%;
   }
   #menu .menu_list .drink h5 {
-    font-size: 2.5vw;
+    font-size: 3vw;
   }
   #info {
     margin-bottom: 30%;
   }
   #info ul li {
-    font-size: 2.5vw;
+    font-size: 3.2vw;
   }
   #info ul li h4 {
     font-size: 3.5vw;
@@ -687,7 +687,7 @@ footer p img {
     font-size: 3.5vw;
   }
   #info .instagram h5 {
-    font-size: 2vw;
+    font-size: 3vw;
   }
   #store {
     margin-bottom: 30%;
@@ -715,7 +715,7 @@ footer p img {
     margin: 0 auto;
   }
   #contact .contact_txt p {
-    font-size: 2vw;
+    font-size: 2.8vw;
     line-height: 200%;
   }
   #contact .contact_tel h3 {
@@ -732,7 +732,7 @@ footer p img {
   }
   #contact .contact_tel .txts {
     margin-top: 5%;
-    font-size: 2vw;
+    font-size: 2.7vw;
     color: #6e6e6e;
   }
   #contact .contact_tel .tel img {
@@ -747,7 +747,7 @@ footer p img {
     padding: 4%;
   }
   footer p {
-    font-size: 2vw;
+    font-size: 2.7vw;
   }
   #page_top {
     width: 18%;
