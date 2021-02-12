@@ -711,11 +711,11 @@ footer p img {
     font-size: 3vw;
   }
   #contact .contact_txt {
-    width: 95%;
+    width: 80%;
     margin: 0 auto;
   }
   #contact .contact_txt p {
-    font-size: 2.8vw;
+    font-size: 2.5vw;
     line-height: 200%;
   }
   #contact .contact_tel h3 {
@@ -747,7 +747,7 @@ footer p img {
     padding: 4%;
   }
   footer p {
-    font-size: 2.3vw;
+    font-size: 2.7vw;
   }
   #page_top {
     width: 18%;
